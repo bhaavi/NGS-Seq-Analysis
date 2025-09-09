@@ -1,4 +1,4 @@
-SARS-CoV-2 NGS Data Preprocessing Pipeline
+🧬SARS-CoV-2 NGS Data Preprocessing Pipeline
 
 This repository provides a step-by-step pipeline for preprocessing and analyzing SARS-CoV-2 next-generation sequencing (NGS) data. 
 The workflow includes quality control, trimming, alignment, and visualization using common bioinformatics tools.
@@ -7,7 +7,7 @@ The workflow includes quality control, trimming, alignment, and visualization us
 
 
 
-Tools used:
+🔧Tools used:
 
 All tools are open source.
 
@@ -28,7 +28,7 @@ IGV: https://software.broadinstitute.org/software/igv/
 
 
 
-Requirements
+⚙️Requirements
 
 FastQC – Quality control of raw reads
 
@@ -49,7 +49,7 @@ SARS-CoV-2 reference genome (FASTA format, e.g., from NCBI)
 
 
 
-Input Data
+📂Input Data
 
 
 SRR33976241.fastq.gz
@@ -71,7 +71,7 @@ aligned_reads_sorted.bam
 
 
 
-Result
+📊Result
 
 SRR33976241_fastqc.html
 
