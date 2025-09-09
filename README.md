@@ -5,6 +5,8 @@ The workflow includes quality control, trimming, alignment, and visualization us
 
 
 
+
+
 Tools used:
 
 All tools are open source.
@@ -20,6 +22,8 @@ BWA: http://bio-bwa.sourceforge.net/
 SAMtools: http://www.htslib.org/
 
 IGV: https://software.broadinstitute.org/software/igv/
+
+
 
 
 
@@ -40,6 +44,11 @@ SARS-CoV-2 reference genome (FASTA format, e.g., from NCBI)
 
 
 
+
+
+
+
+
 Input Data
 
 
@@ -54,6 +63,11 @@ GCF_009858895.2_ASM985889v3_cds_from_genomic.fna
 aligned_reads_sorted.bam.bai
 
 aligned_reads_sorted.bam
+
+
+
+
+
 
 
 
